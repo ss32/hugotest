@@ -1,0 +1,2 @@
+# hugotest
+tesing hugo ssg
